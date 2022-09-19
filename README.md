@@ -4,10 +4,11 @@ My first repository as part of Github tutorial.
 # First Markdown title
 ## Second Markdown title
 
-**These are the main changes**
+**This is bold**
+>This is blockquote
 
->As I'm playing with the Markdown Syntayx
+*This is italicized*
 
 `print('Hello world!')`
-
-*I need to see an example of productive and readable branching to get a better understanding of this*
+---
+[Link ot whatever] https://www.whatever.com
