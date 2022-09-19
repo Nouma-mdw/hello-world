@@ -6,8 +6,8 @@ My first repository as part of Github tutorial.
 
 **These are the main changes**
 
->As I'm playing with the Markdown Syntayx<
+>As I'm playing with the Markdown Syntayx
 
-'print('Hello world!')'
+`print('Hello world!')`
 
 *I need to see an example of productive and readable branching to get a better understanding of this*
